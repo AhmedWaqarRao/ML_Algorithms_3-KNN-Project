@@ -1,0 +1,5 @@
+Anonymous Data Analysis using KNNAnonymous Data Analysis using KNN
+
+Used the anonymous data called Classified Data having many points belonging to various features. 
+We first scale the data using the Standard Scaler, and then apply KNN algorithm to predict the target class. 
+We try to choose the best K value for which we get the lowest error rate.
